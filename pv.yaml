@@ -9,5 +9,5 @@ spec:
   capacity:
     storage: 1Gi
   hostPath:
-    path: /root/opt/FGUF00101/data
+    path: /opt/FGUF00101/data
 
